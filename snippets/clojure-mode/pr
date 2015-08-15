@@ -2,5 +2,4 @@
 # name: pr
 # key: pr
 # --
-(prn $1)
-$0
+(prn $1)$0

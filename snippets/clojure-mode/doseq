@@ -1,6 +1,4 @@
 # name: doseq
 # key: doseq
 # --
-(doseq [$1 $2]
-  $3)$>
-$0
+(doseq [$1 $2] $3)$> $0

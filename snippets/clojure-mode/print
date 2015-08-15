@@ -1,6 +1,5 @@
 # -*- coding: utf-8 -*-
 # name: print
-# key: print
+# key: p
 # --
-(println $1)
-$0
+(println $1)$0

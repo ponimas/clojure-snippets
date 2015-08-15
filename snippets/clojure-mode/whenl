@@ -2,6 +2,4 @@
 # name: whenl
 # key: whenl
 # --
-(when-let [$1 $2]
-  $3)$>
-  $0$>
+(when-let [$1 $2] $3)$> $0$>
