@@ -1,5 +1,5 @@
 # name: defprotocol
 # key: defp
 # --
-(defprotocol
-  $1$> $0)$>
+(defprotocol $1$>
+  $0)$>
